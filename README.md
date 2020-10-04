@@ -1,4 +1,4 @@
-Online-Restaurant - A Online Food Delivery Service
+Online-Restaurant -> A Online Food Delivery Service
 
 Warning : This website haven't made fully responsive yet. It's is made for 1920*1080 screens. You may contribute this project by making this website responsive and make a pull request.
 

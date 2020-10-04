@@ -1,4 +1,10 @@
-# Online-Restaurant - An Amazing Online Food delivery Service
-Online Food Delivery Restaurant Website
+### Responsive Restaurant website using Html, Css and JavaScript.
 
-Warning : This is only work for desktop and laptop users. if you want to contribute for this then make it responsive for all devices
+![Food website](https://github.com/codersgyan/Responsive-restaurant-website/blob/master/restaurant-webpage.jpg?raw=true)
+
+
+#### Demo: https://codersgyan.github.io/Responsive-restaurant-website/
+
+
+🙏 If you find this repo helpful then don't forget to give a start ❇️  to this repository. :)
+
